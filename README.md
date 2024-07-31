@@ -34,4 +34,4 @@ I welcome any feedback, suggestions, or contributions to my projects! If you're 
 
 ### Thank You!
 
-Thank you for visiting my GitHub profile! I'm excited to share my journey with you and look forward to learning from the community. If you have any questions or just want to say hello, feel free to reach out!
+Thank you for visiting my GitHub profile! If you have any questions or just want to say hello, feel free to reach out!
