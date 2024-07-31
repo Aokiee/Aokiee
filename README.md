@@ -6,7 +6,7 @@
 
 I'm interested in Web Development, and building responsive, user-friendly, and scalable web applications that make a real impact.
 
-Currently learning, Python, Java and C++
+I'm Currently learning, Python, Java and C++
 
 ## What to expect
 
