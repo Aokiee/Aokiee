@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile!
 
 **I'm thrilled to share my coding journey with you on GitHub! As a beginner developer, I'm excited to learn, grow, and showcase my projects with the community.**
 
